@@ -135,8 +135,8 @@ Or with an IDE (IntelliJ IDEA / Eclipse):
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+Manahil Armeen 
+[LinkedIn](https://www.linkedin.com/in/مناحل-ريم-9523683b6?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/manahilnadem-ai)
 
 ---
 
